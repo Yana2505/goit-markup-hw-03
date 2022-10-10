@@ -98,8 +98,7 @@ font-style: normal;}
     color: #212121;
 }
 
-
-
+.boxing{display: inline;}
 
 .jobtitle{font-weight: 400;
     font-size: 16px;
@@ -109,7 +108,7 @@ font-style: normal;}
     }
 
 
-.team{background-color: #F5F4FA}
+.team{background-color: #F5F4FA; }
 
 .box{background: #FFFFFF; list-style-type: none;}
 .none{list-style-type: none; display: inline;}
@@ -146,3 +145,4 @@ font-style: normal;}
 
 
 
+.team_box{display: inline;}
