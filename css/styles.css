@@ -55,6 +55,9 @@ font-style: normal;}
     font-size: 44px;
     line-height: 60px;
     text-transform: uppercase;
+    text-align: center;
+letter-spacing: 0.06em;
+
 }
 
 .button { color: #212121;
@@ -142,7 +145,10 @@ font-style: normal;}
     font-size: 26px;
     line-height: 31px;}
 
-
+.container{max-width: 1200px;
+width: 100%;
+margin: 0 auto;
+}
 
 
 .team_box{display: inline;}
