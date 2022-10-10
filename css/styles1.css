@@ -1,0 +1,42 @@
+.portfolioheader{
+color:  #2196F3;
+
+}
+.middlemain{font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.boxing{display: inline;}
+
+.title{font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;
+    color:#212121;
+}
+
+
+.button1{ cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    background-color: #F5F4FA;
+    color: #212121}
+
+    .button1:hover{background-color: #2196F3; 
+        color: #FFFFFF;}
+
+
+.subname{font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #757575;
+    }
+
+.imagesul{width: 370px;
+    height: 294px;
+    }
+
+
